@@ -7,7 +7,8 @@ The project is divided into two key sections:
 * MongoDB Queries – Performing CRUD operations, filtering, and aggregations to extract insights from the dataset.
 * MongoDB Atlas Dashboard – A visual representation of key metrics using interactive charts.
 
-View the Dashboard Here: [Movie Analytics Dashboard]([https://charts.mongodb.com/charts-project-0-zrkxyou/dashboards/3e660d11-2305-4d59-9a50-56370758aede])
+View the Dashboard Here: 
+[Movie Analytics Dashboard](https://charts.mongodb.com/charts-project-0-zrkxyou/dashboards/3e660d11-2305-4d59-9a50-56370758aede)
 
 ### **Tools & Technologies Used**
 * **MongoDB Atlas** – Database and aggregation pipeline queries.
